@@ -6,10 +6,10 @@
     "logo_img": "./img/icon/abc.gif",
     "logo_text_1": "581689",
     "logo_text_2": "xyz",
-    "github": "爱上感觉",
+    "github": "",
     "qq": "860001807",
     "email": "860001807@qq.com",
-    "bilibili": "860001807",
+    "bilibili": "",
     "facebook": "bottom_user",
     "link_1": [
         "http://www.581689.xyz/",
@@ -41,6 +41,6 @@
         "fa-solid fa-flask",
         "敬请期待..."
     ],
-    "Copyright_text": "@ 浪漫",
+    "Copyright_text": "",
     "beian": ".."
 }

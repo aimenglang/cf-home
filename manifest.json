@@ -1,44 +1,44 @@
 {
-  "name": "Auroraの主页",
-  "short_name": "Auroraの主页",
-  "description": "一个默默无闻的主页",
+  "name": "爱上感觉",
+  "short_name": "爱上感觉",
+  "description": "爱上感觉",
   "display": "standalone",
   "start_url": "/",
   "theme_color": "#424242",
   "background_color": "#424242",
   "icons": [
     {
-      "src": "img/icon/48.png",
+      "src": "img/icon/favicon.png",
       "sizes": "48x48",
       "type": "image/png"
     },
     {
-      "src": "img/icon/72.png",
+      "src": "img/icon/favicon.png",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "img/icon/96.png",
+      "src": "img/icon/favicon.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "img/icon/128.png",
+      "src": "img/icon/favicon.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "img/icon/144.png",
+      "src": "img/icon/favicon.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "img/icon/192.png",
+      "src": "img/icon/favicon.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "img/icon/512.png",
+      "src": "img/icon/favicon.png",
       "sizes": "512x512",
       "type": "image/png"
     }

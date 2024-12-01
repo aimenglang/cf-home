@@ -4,8 +4,8 @@
     "keywords": "爱上感觉,个人主页",
     "author": "爱上感觉",
     "logo_img": "./img/icon/abc.gif",
-    "logo_text_1": "581689",
-    "logo_text_2": "xyz",
+    "logo_text_1": "爱上感觉",
+    "logo_text_2": "@",
     "github": "爱上感觉",
     "qq": "860001807",
     "email": "860001807@qq.com",
@@ -41,6 +41,6 @@
         "fa-solid fa-flask",
         "敬请期待..."
     ],
-    "Copyright_text": "http://www.581689.xyz",
+    "Copyright_text": "@ 浪漫",
     "beian": ".."
 }

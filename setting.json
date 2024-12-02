@@ -1,5 +1,5 @@
 {
-    "title": "爱上感觉 - 个人首页",
+    "title": "爱上感觉 - 个人主页",
     "description": "一个小小的主页",
     "keywords": "爱上感觉,个人主页",
     "author": "爱上感觉",
@@ -22,7 +22,7 @@
         "关于"
     ],
     "link_3": [
-        "http://www.581689.xyz/",
+        "http://581689.xyz/",
         "fa-solid fa-compass",
         "起始页"
     ],

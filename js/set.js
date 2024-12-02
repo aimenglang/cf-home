@@ -84,6 +84,7 @@ let bg_img_preinstall = {
     "2": "https://api.dujin.org/bing/1920.php", // 每日一图
     "3": "https://api.ixiaowai.cn/gqapi/gqapi.php", // 随机风景
     "4": "https://api.ixiaowai.cn/api/api.php" // 随机动漫
+    "5": "./img/bj1.jpg" // 固定背景
 };
 
 // 更改背景图片
@@ -93,8 +94,7 @@ function setBgImgInit() {
 
     switch (bg_img["type"]) {
         case "1":
-            // $('#bg').attr('src', `./img/background${1 + ~~(Math.random() * 10)}.webp`) //随机默认壁纸
-            $('#bg').attr('src', `./img/bj1.jpg`) //随机默认壁纸
+            $('#bg').attr('src', `./img/background${1 + ~~(Math.random() * 10)}.webp`) //随机默认壁纸
             break;
         case "2":
             $('#bg').attr('src', bg_img_preinstall[2]); //必应每日
@@ -104,6 +104,9 @@ function setBgImgInit() {
             break;
         case "4":
             $('#bg').attr('src', bg_img_preinstall[4]); //随机动漫
+            break;
+        case "5":
+            $('#bg').attr('src', `./img/bj1.jpg`) // 固定背景
             break;
     }
 };

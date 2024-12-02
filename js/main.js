@@ -241,7 +241,7 @@ $("#social").mouseover(function () {
 });
 
 $("#github").mouseover(function () {
-    $("#link-text").html("去 Github 看看");
+    $("#link-text").html("去 看看");
 }).mouseout(function () {
     $("#link-text").html("通过这里联系我");
 });

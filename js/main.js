@@ -63,7 +63,7 @@ window.addEventListener('load', function () {
 
     //延迟加载音乐播放器
     let element = document.createElement("script");
-    // element.src = "./js/music.js";
+    element.src = "./js/music.js";
     document.body.appendChild(element);
 
     //中文字体缓加载-此处写入字体源文件 （暂时弃用）
@@ -241,7 +241,7 @@ $("#social").mouseover(function () {
 });
 
 $("#github").mouseover(function () {
-    $("#link-text").html("去 看看");
+    $("#link-text").html("去看看");
 }).mouseout(function () {
     $("#link-text").html("通过这里联系我");
 });
